@@ -22,3 +22,7 @@ To answer the questions posed by the different departments, you’ll query the d
     
   ● Present your SQL results to your technical colleagues using Excel and by creating a
     data dictionary.
+ 
+ ## Results and Reports
+ 
+ [Link to Tableau Presentation and Visualizations](https://public.tableau.com/app/profile/robert.cheadle/viz/robert_cheadle_rockbuster_presentation/RobckbusterBusinessInsights)
